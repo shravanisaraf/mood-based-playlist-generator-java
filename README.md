@@ -1,6 +1,6 @@
 # Mood-Based Playlist Generator Java
 
-The Mood-Based Playlist Generator is a Java program that allows users to generate playlists of songs based on their current mood. Users can input their mood, and the program will display a selection of songs that match that mood or have synonyms associated with it.
+The Mood-Based Playlist Generator is a Java program that allows users to generate playlists of songs based on their current mood. Users can input their mood, and the program will display a selection of songs that match that mood or have synonyms associated with it. Please add songs to the CSV file as you like. The current file contains limited number of songs!
 
 ## Features
 
